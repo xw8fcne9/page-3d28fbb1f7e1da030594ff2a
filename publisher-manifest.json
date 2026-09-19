@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "60da071c66cd0c7a281689e6",
+  "owner": "xw8fcne9",
+  "repo": "page-3d28fbb1f7e1da030594ff2a",
+  "title": "Godetia",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3d28fbb1f7e1da030594ff2a",
+      "a": "Godetia",
+      "b": "Clash Mi服务商官网",
+      "entity": "Godetia",
+      "brand": "Godetia",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0bc8bf7af7050c4b515f8d49db150c0e0f3c22e278be2a33c2be49cd5029dd54",
+      "content": {
+        "primary_entity": "Godetia",
+        "keyword1": "Godetia",
+        "keyword2": "Clash Mi服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备选择订阅工具，桌面端可选 Clash Verge、Clash for Windows 或 Mihomo Party，移动端可选 Clash Mi 或 Stash。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "按设备挑好套餐，导入订阅即开启加速。",
+          "AI_CLOSING_TITLE": "选对版本，连接更快",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量，支持 3 台至 20 台设备同时在线。节点针对流媒体与游戏场景优化，旗舰版采用 IPLC 专线，团队版支持企业定制路由，可按设备数量与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度对比套餐，能更快找到匹配项。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，适合个人手机与笔记本日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备与 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选",
+          "AI_FEATURE_TITLE_2": "按设备选",
+          "AI_FEATURE_TITLE_3": "按周期选",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "上手流程",
+          "AI_HERO_INTRO": "Godetia 面向跨境访问与低延迟连接需求，提供多档加速套餐，覆盖个人到团队场景，按流量和设备数量灵活订阅。",
+          "AI_HERO_SUBTITLE": "多档加速，灵活接入",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "流量 100GB 至 1000GB 可选",
+          "AI_HIGHLIGHT_3": "设备 3 台至 20 台同时在线",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版适合多设备与流媒体，团队版面向大流量与企业场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的在线设备数与流量额度满足当前使用场景。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅配置，完成连接设置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "Godetia 加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Godetia 如何选择合适的套餐？",
+          "AI_FAQ_ANSWER_1": "按每月流量与同时在线设备数判断。日常浏览选基础版 100GB/3 台设备；流媒体与游戏选旗舰版 300GB/5 台设备；团队或多设备选团队版 1000GB/20 台设备。",
+          "AI_FAQ_QUESTION_2": "Godetia 支持哪些客户端？",
+          "AI_FAQ_ANSWER_2": "在手机、电脑等设备上可选择对应系统的客户端软件，导入订阅后使用。具体客户端名称与版本建议参考配置文档，按设备系统选择。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150/年；旗舰版月付 ¥35、年付 ¥350/年；团队版月付 ¥85、年付 ¥850/年。年付相当于十个月价格，适合长期使用。",
+          "AI_FAQ_QUESTION_4": "Godetia 旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_4": "旗舰版配备 IPLC 专线节点，针对游戏与实时互动场景优化，降低连接波动。同时支持全节点原生流媒体解锁与 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_5": "订阅可以更换套餐吗？",
+          "AI_FAQ_ANSWER_5": "可以按当前使用情况调整档位。流量不足时升级至更高档位，设备减少时可考虑基础版。具体变更方式以购买页说明为准，年付方案同样支持选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "73862df4a8456ff07a7dca0efa768a4ef9d710001d9e00be433eab1a7fa14429",
+    "sitemap.xml": "6a6be2b169276df483aac58163de9ce86fe56fa4647980030dbd17e24b0b93c7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "eb6e08bf869312b669299a15fb8a8667306a5836db848fdba6a43a3a7721c754"
+}
